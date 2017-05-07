@@ -4,8 +4,8 @@ Copy to config.py after filling in values.
 """
 
 # runtime configurations
-bucket  = <bucketname>
-default_to_email = <email_to_receive_notifications_when_none_configured>
+bucket  = billing-166911.appspot.com
+default_to_email = oren.maoz@cloudyn.com
 
 
 # ** OPTIONAL**
